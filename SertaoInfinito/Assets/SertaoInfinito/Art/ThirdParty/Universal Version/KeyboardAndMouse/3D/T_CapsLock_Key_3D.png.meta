@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_CapsLock_Key_3D_0: -9079363261139827543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

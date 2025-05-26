@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P4_Cross_3D_0: 8295570631559710308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

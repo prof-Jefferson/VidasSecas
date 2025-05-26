@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P5_Dpad_X_3D_0: 2126159570443923608
+      T_P5_Dpad_X_3D_1: -748262877604974457
+      T_P5_Dpad_X_3D_2: 5877730441180353868
+      T_P5_Dpad_X_3D_3: 2277007124433604114
+      T_P5_Dpad_X_3D_4: -4345842586371739916
+      T_P5_Dpad_X_3D_5: 8003519470546869652
+      T_P5_Dpad_X_3D_6: 2524704897729196791
+      T_P5_Dpad_X_3D_7: -6656642518436686177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

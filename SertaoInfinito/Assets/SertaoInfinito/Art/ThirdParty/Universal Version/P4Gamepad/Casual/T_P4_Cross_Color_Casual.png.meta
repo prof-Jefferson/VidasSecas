@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P4_Cross_Color_Casual_0: -152194010679138989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

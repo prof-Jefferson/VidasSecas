@@ -1334,7 +1334,56 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Steam_3D_Sprite_0: 8247120513501900831
+      T_Steam_3D_Sprite_1: -2694264563303175448
+      T_Steam_3D_Sprite_10: -3344119225024250750
+      T_Steam_3D_Sprite_11: 6337363117844557812
+      T_Steam_3D_Sprite_12: -1086540753411156055
+      T_Steam_3D_Sprite_13: 720785132322534225
+      T_Steam_3D_Sprite_14: -5101749682843879046
+      T_Steam_3D_Sprite_15: -8634064097267755272
+      T_Steam_3D_Sprite_16: 3959472095474197227
+      T_Steam_3D_Sprite_17: 7222410728645631605
+      T_Steam_3D_Sprite_18: 744941024884259291
+      T_Steam_3D_Sprite_19: 461090920015594197
+      T_Steam_3D_Sprite_2: -2001497349857028609
+      T_Steam_3D_Sprite_20: 6700308563080899565
+      T_Steam_3D_Sprite_21: 5530338057158470520
+      T_Steam_3D_Sprite_22: -7031932064265558494
+      T_Steam_3D_Sprite_23: 2087184805284157617
+      T_Steam_3D_Sprite_24: -1965812903451875217
+      T_Steam_3D_Sprite_25: -6146674870962107508
+      T_Steam_3D_Sprite_26: -7931238932318915076
+      T_Steam_3D_Sprite_27: 4606983073805065977
+      T_Steam_3D_Sprite_28: -993329335501397549
+      T_Steam_3D_Sprite_29: -4601821102543683048
+      T_Steam_3D_Sprite_3: -1345565972298929662
+      T_Steam_3D_Sprite_30: -2744424203548253347
+      T_Steam_3D_Sprite_31: -5602782803753236719
+      T_Steam_3D_Sprite_32: -6998451082938707544
+      T_Steam_3D_Sprite_33: -2033024454025890353
+      T_Steam_3D_Sprite_34: 582707383224450990
+      T_Steam_3D_Sprite_35: 5568122732316505265
+      T_Steam_3D_Sprite_36: -4723049263898246680
+      T_Steam_3D_Sprite_37: 8150915721432406193
+      T_Steam_3D_Sprite_38: 8883733368320352507
+      T_Steam_3D_Sprite_39: 561889177103629602
+      T_Steam_3D_Sprite_4: 7039829907346998773
+      T_Steam_3D_Sprite_40: -4487072551799854921
+      T_Steam_3D_Sprite_41: 6003928488186578988
+      T_Steam_3D_Sprite_42: 8144013609364900351
+      T_Steam_3D_Sprite_43: -7667784460919013329
+      T_Steam_3D_Sprite_44: -1034897683823642102
+      T_Steam_3D_Sprite_45: 3057304526483460652
+      T_Steam_3D_Sprite_46: 5508674233360308200
+      T_Steam_3D_Sprite_47: -8978116135748016556
+      T_Steam_3D_Sprite_48: 5722638203378714485
+      T_Steam_3D_Sprite_5: 452319475204148023
+      T_Steam_3D_Sprite_6: 4152647858238952028
+      T_Steam_3D_Sprite_7: 5779310186580753938
+      T_Steam_3D_Sprite_8: 9112793197641378220
+      T_Steam_3D_Sprite_9: 4574075315669138156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

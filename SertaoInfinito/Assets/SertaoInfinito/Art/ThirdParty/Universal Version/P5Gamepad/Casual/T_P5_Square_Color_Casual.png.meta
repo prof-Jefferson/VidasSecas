@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P5_Square_Color_Casual_0: 2272086325041503547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P5_Touch_Pad Left_Casual_0: 7106638205798832244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

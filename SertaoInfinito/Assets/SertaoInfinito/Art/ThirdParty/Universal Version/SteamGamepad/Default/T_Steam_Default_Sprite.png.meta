@@ -1809,7 +1809,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Steam_Default_Sprite_0: -2163705347904493571
+      T_Steam_Default_Sprite_1: 1030651755258233261
+      T_Steam_Default_Sprite_10: -3606234855458975331
+      T_Steam_Default_Sprite_11: 3648120163548981428
+      T_Steam_Default_Sprite_12: -3309803644659666430
+      T_Steam_Default_Sprite_13: -2100173831323500795
+      T_Steam_Default_Sprite_14: -9021288166605575830
+      T_Steam_Default_Sprite_15: 2437519813721757778
+      T_Steam_Default_Sprite_16: 271673485902983395
+      T_Steam_Default_Sprite_17: 9193255292145142254
+      T_Steam_Default_Sprite_18: -1833516596446842063
+      T_Steam_Default_Sprite_19: -4111239365784881307
+      T_Steam_Default_Sprite_2: 861633847585783046
+      T_Steam_Default_Sprite_20: 2860604486731615833
+      T_Steam_Default_Sprite_21: 2741747477797566104
+      T_Steam_Default_Sprite_22: 7710619399640926632
+      T_Steam_Default_Sprite_23: 6226453721538163165
+      T_Steam_Default_Sprite_24: 7199840833263590225
+      T_Steam_Default_Sprite_25: 7041250369962373511
+      T_Steam_Default_Sprite_26: -4347672308326427865
+      T_Steam_Default_Sprite_27: 5897912132924114429
+      T_Steam_Default_Sprite_28: 8599200437024902328
+      T_Steam_Default_Sprite_29: 4632151333996545380
+      T_Steam_Default_Sprite_3: -3657097427727621991
+      T_Steam_Default_Sprite_30: -25470458602476162
+      T_Steam_Default_Sprite_31: -4313847134986950268
+      T_Steam_Default_Sprite_32: -3146107204902656500
+      T_Steam_Default_Sprite_33: -2685197596518493374
+      T_Steam_Default_Sprite_34: 7885369764757871881
+      T_Steam_Default_Sprite_35: 224722425645734530
+      T_Steam_Default_Sprite_36: 6354460236252581288
+      T_Steam_Default_Sprite_37: 6770311255277703521
+      T_Steam_Default_Sprite_38: 4763979856591772644
+      T_Steam_Default_Sprite_39: 999065383087086013
+      T_Steam_Default_Sprite_4: -3627663008857222110
+      T_Steam_Default_Sprite_40: -4830156664022925133
+      T_Steam_Default_Sprite_41: 155677822691667336
+      T_Steam_Default_Sprite_42: 7897269074558766348
+      T_Steam_Default_Sprite_43: -6955233283620759544
+      T_Steam_Default_Sprite_44: -4770878982426480690
+      T_Steam_Default_Sprite_45: 3233960265818942507
+      T_Steam_Default_Sprite_46: -1541333477154528613
+      T_Steam_Default_Sprite_47: 4760102580609600210
+      T_Steam_Default_Sprite_48: 8344485711986368064
+      T_Steam_Default_Sprite_49: -2200732940127207154
+      T_Steam_Default_Sprite_5: 147114170783004436
+      T_Steam_Default_Sprite_50: 4377870603009874625
+      T_Steam_Default_Sprite_51: 6021069196413374479
+      T_Steam_Default_Sprite_52: 8064729671435520079
+      T_Steam_Default_Sprite_53: -1010945677491948905
+      T_Steam_Default_Sprite_54: 7933710167156612263
+      T_Steam_Default_Sprite_55: 856627580027497814
+      T_Steam_Default_Sprite_56: -7995518790680223258
+      T_Steam_Default_Sprite_57: -6320706533520988974
+      T_Steam_Default_Sprite_58: 2169744736506392697
+      T_Steam_Default_Sprite_59: 727348881627669611
+      T_Steam_Default_Sprite_6: 4243427267109085038
+      T_Steam_Default_Sprite_60: -9170968543703315411
+      T_Steam_Default_Sprite_61: 8673347207435960064
+      T_Steam_Default_Sprite_62: 3491799848242081055
+      T_Steam_Default_Sprite_63: 8056042604467769070
+      T_Steam_Default_Sprite_64: -6880343642843545261
+      T_Steam_Default_Sprite_65: -1831305057272495477
+      T_Steam_Default_Sprite_66: -4531993399110422383
+      T_Steam_Default_Sprite_67: 4428243932560220589
+      T_Steam_Default_Sprite_7: -4874131663407646719
+      T_Steam_Default_Sprite_8: -7787030205939094239
+      T_Steam_Default_Sprite_9: -1204675489037341790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

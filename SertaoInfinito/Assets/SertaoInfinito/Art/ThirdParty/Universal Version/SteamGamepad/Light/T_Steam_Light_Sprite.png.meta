@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Steam_Light_Sprite_0: 6122888143766811578
+      T_Steam_Light_Sprite_1: 1572535616193851795
+      T_Steam_Light_Sprite_10: -6356987216456107512
+      T_Steam_Light_Sprite_11: 3850953507236985812
+      T_Steam_Light_Sprite_12: 7121551676502544228
+      T_Steam_Light_Sprite_13: 4366373816090435446
+      T_Steam_Light_Sprite_14: 1707906455434711048
+      T_Steam_Light_Sprite_15: 1321640268546508467
+      T_Steam_Light_Sprite_16: -4033061128767750231
+      T_Steam_Light_Sprite_17: 3784206150306797362
+      T_Steam_Light_Sprite_18: -1909683393801203293
+      T_Steam_Light_Sprite_19: -9068578144119856745
+      T_Steam_Light_Sprite_2: -8506741759128655629
+      T_Steam_Light_Sprite_20: 7516350815728190914
+      T_Steam_Light_Sprite_21: 803956123532963813
+      T_Steam_Light_Sprite_22: -3457453957849291088
+      T_Steam_Light_Sprite_23: 8402011143929444645
+      T_Steam_Light_Sprite_24: 8897408641831636878
+      T_Steam_Light_Sprite_25: -9077009145792798641
+      T_Steam_Light_Sprite_26: 335337157209950172
+      T_Steam_Light_Sprite_27: -6016228709157952737
+      T_Steam_Light_Sprite_28: -7117090230783655018
+      T_Steam_Light_Sprite_29: 2010116459301408861
+      T_Steam_Light_Sprite_3: 3400072582756145455
+      T_Steam_Light_Sprite_30: -7309222309341998951
+      T_Steam_Light_Sprite_31: 7038477883235934097
+      T_Steam_Light_Sprite_32: -4482502566054788570
+      T_Steam_Light_Sprite_33: -9163781459908872937
+      T_Steam_Light_Sprite_34: -1846238872884846674
+      T_Steam_Light_Sprite_35: -6720742699188822152
+      T_Steam_Light_Sprite_36: -3608122948109026500
+      T_Steam_Light_Sprite_37: 1198586405957276737
+      T_Steam_Light_Sprite_38: 8861358480813248330
+      T_Steam_Light_Sprite_39: -3484877305779088365
+      T_Steam_Light_Sprite_4: 9058184080348793333
+      T_Steam_Light_Sprite_40: -5924221575846183479
+      T_Steam_Light_Sprite_41: 2481945980743462883
+      T_Steam_Light_Sprite_42: -4476884127591328037
+      T_Steam_Light_Sprite_43: 5250384755857325439
+      T_Steam_Light_Sprite_44: -3909793772434225832
+      T_Steam_Light_Sprite_45: 7844643190965666763
+      T_Steam_Light_Sprite_46: -5005381289092802836
+      T_Steam_Light_Sprite_47: 5566720075726670981
+      T_Steam_Light_Sprite_5: 2131387849848558974
+      T_Steam_Light_Sprite_6: -7103869917561702830
+      T_Steam_Light_Sprite_7: -5048425967920302655
+      T_Steam_Light_Sprite_8: -7507074850037689918
+      T_Steam_Light_Sprite_9: 5707041739144695557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

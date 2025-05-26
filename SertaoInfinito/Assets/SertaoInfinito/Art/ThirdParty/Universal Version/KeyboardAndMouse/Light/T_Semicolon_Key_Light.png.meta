@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Semicolon_Key_Light_0: 2479766463872662790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

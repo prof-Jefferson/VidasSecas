@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P4_Right_Stick_3_Click_3D_0: -2753152718862757718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

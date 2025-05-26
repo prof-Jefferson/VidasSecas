@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_P4_Circle_Color_3D_0: -81820963634409162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

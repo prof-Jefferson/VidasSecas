@@ -1359,7 +1359,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_S_Casual_Sprite_0: -6461968103290330964
+      T_S_Casual_Sprite_1: 4057737254171609919
+      T_S_Casual_Sprite_10: -5699146004833452883
+      T_S_Casual_Sprite_11: -1660537500622089711
+      T_S_Casual_Sprite_12: 2402472746114591432
+      T_S_Casual_Sprite_13: 5403584762406407804
+      T_S_Casual_Sprite_14: -5298797616323408330
+      T_S_Casual_Sprite_15: 3974052512110296070
+      T_S_Casual_Sprite_16: -8883680287678154381
+      T_S_Casual_Sprite_17: -6351182064180800458
+      T_S_Casual_Sprite_18: 3815118861766922122
+      T_S_Casual_Sprite_19: 451349235490710815
+      T_S_Casual_Sprite_2: 823589686443806498
+      T_S_Casual_Sprite_20: -9159388297701262032
+      T_S_Casual_Sprite_21: 4287932731734299535
+      T_S_Casual_Sprite_22: -1559687852910175034
+      T_S_Casual_Sprite_23: -5090830590787861186
+      T_S_Casual_Sprite_24: -4032757088294495800
+      T_S_Casual_Sprite_25: -4325961488417934750
+      T_S_Casual_Sprite_26: 3423428291198245942
+      T_S_Casual_Sprite_27: -4981766756493616768
+      T_S_Casual_Sprite_28: 7870027097766152914
+      T_S_Casual_Sprite_29: -4929892434275646680
+      T_S_Casual_Sprite_3: -1625959764602071456
+      T_S_Casual_Sprite_30: 3887527372131947524
+      T_S_Casual_Sprite_31: -4808784478509804668
+      T_S_Casual_Sprite_32: 4862011452693815291
+      T_S_Casual_Sprite_33: -5407377728918434509
+      T_S_Casual_Sprite_34: 1957624609110132793
+      T_S_Casual_Sprite_35: -5666778450257979147
+      T_S_Casual_Sprite_36: 1933966191697523931
+      T_S_Casual_Sprite_37: -1940303829318958285
+      T_S_Casual_Sprite_38: -6015712966499530596
+      T_S_Casual_Sprite_39: 688830003956905628
+      T_S_Casual_Sprite_4: -5614419138741368046
+      T_S_Casual_Sprite_40: -795672399968714599
+      T_S_Casual_Sprite_41: -5301210856539907237
+      T_S_Casual_Sprite_42: -6457988734814321151
+      T_S_Casual_Sprite_43: 4256685207975953767
+      T_S_Casual_Sprite_44: 3100398603733753884
+      T_S_Casual_Sprite_45: -5222628583990116686
+      T_S_Casual_Sprite_46: 791647368669939966
+      T_S_Casual_Sprite_47: 5079478825105381470
+      T_S_Casual_Sprite_48: -3415545564658895665
+      T_S_Casual_Sprite_49: 7279653209052578503
+      T_S_Casual_Sprite_5: -3764147316215939916
+      T_S_Casual_Sprite_6: -7606099615910725730
+      T_S_Casual_Sprite_7: 7713912434972287081
+      T_S_Casual_Sprite_8: 3554651225319236874
+      T_S_Casual_Sprite_9: -925137829277789198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
