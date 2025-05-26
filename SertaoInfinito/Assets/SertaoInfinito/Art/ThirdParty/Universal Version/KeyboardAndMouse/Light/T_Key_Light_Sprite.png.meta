@@ -1,0 +1,2642 @@
+fileFormatVersion: 2
+guid: 9426a8b1756408e49abf84e0239a0eea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8262461493863717056
+    second: T_Key_Light_Sprite_0
+  - first:
+      213: 2556593336367098204
+    second: T_Key_Light_Sprite_1
+  - first:
+      213: -7264124895226875609
+    second: T_Key_Light_Sprite_2
+  - first:
+      213: -7449495505470879118
+    second: T_Key_Light_Sprite_3
+  - first:
+      213: -5332691695844534798
+    second: T_Key_Light_Sprite_4
+  - first:
+      213: -8844910628788360488
+    second: T_Key_Light_Sprite_5
+  - first:
+      213: -7996571013518132166
+    second: T_Key_Light_Sprite_6
+  - first:
+      213: -6626091441840045216
+    second: T_Key_Light_Sprite_7
+  - first:
+      213: 8156695916689005674
+    second: T_Key_Light_Sprite_8
+  - first:
+      213: 3895442992233718783
+    second: T_Key_Light_Sprite_9
+  - first:
+      213: -2058382775553571803
+    second: T_Key_Light_Sprite_10
+  - first:
+      213: -4115366942932971760
+    second: T_Key_Light_Sprite_11
+  - first:
+      213: -7822497525867621572
+    second: T_Key_Light_Sprite_12
+  - first:
+      213: 3936638632460962684
+    second: T_Key_Light_Sprite_13
+  - first:
+      213: 4470534973964297156
+    second: T_Key_Light_Sprite_14
+  - first:
+      213: 5419217678292348706
+    second: T_Key_Light_Sprite_15
+  - first:
+      213: -7989187722879048593
+    second: T_Key_Light_Sprite_16
+  - first:
+      213: -7614186921606646522
+    second: T_Key_Light_Sprite_17
+  - first:
+      213: -3254719754841934112
+    second: T_Key_Light_Sprite_18
+  - first:
+      213: 657457448356423318
+    second: T_Key_Light_Sprite_19
+  - first:
+      213: 1803791016359780857
+    second: T_Key_Light_Sprite_20
+  - first:
+      213: 9099748078416022790
+    second: T_Key_Light_Sprite_21
+  - first:
+      213: 6915621696021595540
+    second: T_Key_Light_Sprite_22
+  - first:
+      213: -6303019992424953074
+    second: T_Key_Light_Sprite_23
+  - first:
+      213: 7648971620010028864
+    second: T_Key_Light_Sprite_24
+  - first:
+      213: -584862039489240046
+    second: T_Key_Light_Sprite_25
+  - first:
+      213: -2740603644960838912
+    second: T_Key_Light_Sprite_26
+  - first:
+      213: -3741905447559840406
+    second: T_Key_Light_Sprite_27
+  - first:
+      213: 6980902635986958007
+    second: T_Key_Light_Sprite_28
+  - first:
+      213: -4216917193814034968
+    second: T_Key_Light_Sprite_29
+  - first:
+      213: -4611085804407949226
+    second: T_Key_Light_Sprite_30
+  - first:
+      213: 5451119037072294123
+    second: T_Key_Light_Sprite_31
+  - first:
+      213: -40606875468031034
+    second: T_Key_Light_Sprite_32
+  - first:
+      213: 4146285813991925445
+    second: T_Key_Light_Sprite_33
+  - first:
+      213: 3874852307219907010
+    second: T_Key_Light_Sprite_34
+  - first:
+      213: 5193419964421466172
+    second: T_Key_Light_Sprite_35
+  - first:
+      213: -4158534913376111022
+    second: T_Key_Light_Sprite_36
+  - first:
+      213: -5584668348064729926
+    second: T_Key_Light_Sprite_37
+  - first:
+      213: 8610730999810361937
+    second: T_Key_Light_Sprite_38
+  - first:
+      213: 5092831458522020601
+    second: T_Key_Light_Sprite_39
+  - first:
+      213: 4131698493203181949
+    second: T_Key_Light_Sprite_40
+  - first:
+      213: 5441150097256694473
+    second: T_Key_Light_Sprite_41
+  - first:
+      213: -3118234866762673042
+    second: T_Key_Light_Sprite_42
+  - first:
+      213: -8761888374310429326
+    second: T_Key_Light_Sprite_43
+  - first:
+      213: -8285732692628005374
+    second: T_Key_Light_Sprite_44
+  - first:
+      213: -6861347442123715037
+    second: T_Key_Light_Sprite_45
+  - first:
+      213: 6898303200853604366
+    second: T_Key_Light_Sprite_46
+  - first:
+      213: -6113817229384162257
+    second: T_Key_Light_Sprite_47
+  - first:
+      213: 3179475735193292992
+    second: T_Key_Light_Sprite_48
+  - first:
+      213: 9089043476625800381
+    second: T_Key_Light_Sprite_49
+  - first:
+      213: -5891304513980450798
+    second: T_Key_Light_Sprite_50
+  - first:
+      213: -1020022141860970027
+    second: T_Key_Light_Sprite_51
+  - first:
+      213: 1296186823880583365
+    second: T_Key_Light_Sprite_52
+  - first:
+      213: 4511788435987680776
+    second: T_Key_Light_Sprite_53
+  - first:
+      213: 5700238665199116545
+    second: T_Key_Light_Sprite_54
+  - first:
+      213: -9085109537638348100
+    second: T_Key_Light_Sprite_55
+  - first:
+      213: 3067646195442050809
+    second: T_Key_Light_Sprite_56
+  - first:
+      213: 58062584064694949
+    second: T_Key_Light_Sprite_57
+  - first:
+      213: -6254577439893626126
+    second: T_Key_Light_Sprite_58
+  - first:
+      213: -6712500810307335250
+    second: T_Key_Light_Sprite_59
+  - first:
+      213: -1753614383943389904
+    second: T_Key_Light_Sprite_60
+  - first:
+      213: 6381608496948664876
+    second: T_Key_Light_Sprite_61
+  - first:
+      213: -562421876306379192
+    second: T_Key_Light_Sprite_62
+  - first:
+      213: 7817472898719916510
+    second: T_Key_Light_Sprite_63
+  - first:
+      213: -6701460356185695877
+    second: T_Key_Light_Sprite_64
+  - first:
+      213: -2898170012176695018
+    second: T_Key_Light_Sprite_65
+  - first:
+      213: -131093879534052369
+    second: T_Key_Light_Sprite_66
+  - first:
+      213: 2504465955763797968
+    second: T_Key_Light_Sprite_67
+  - first:
+      213: -331521165879538466
+    second: T_Key_Light_Sprite_68
+  - first:
+      213: -9189304564639814999
+    second: T_Key_Light_Sprite_69
+  - first:
+      213: 1940920014796645228
+    second: T_Key_Light_Sprite_70
+  - first:
+      213: 6845751990946781585
+    second: T_Key_Light_Sprite_71
+  - first:
+      213: -6643048272686153331
+    second: T_Key_Light_Sprite_72
+  - first:
+      213: 3622057482976549605
+    second: T_Key_Light_Sprite_73
+  - first:
+      213: -1715620308687966700
+    second: T_Key_Light_Sprite_74
+  - first:
+      213: -8462813211100064146
+    second: T_Key_Light_Sprite_75
+  - first:
+      213: -1254817407808222476
+    second: T_Key_Light_Sprite_76
+  - first:
+      213: -5220431288749810794
+    second: T_Key_Light_Sprite_77
+  - first:
+      213: -4654848828403991288
+    second: T_Key_Light_Sprite_78
+  - first:
+      213: 7536783098084973006
+    second: T_Key_Light_Sprite_79
+  - first:
+      213: 1007768819684158979
+    second: T_Key_Light_Sprite_80
+  - first:
+      213: -8608581510396785361
+    second: T_Key_Light_Sprite_81
+  - first:
+      213: 3186404935164165987
+    second: T_Key_Light_Sprite_82
+  - first:
+      213: -2104135488867381716
+    second: T_Key_Light_Sprite_83
+  - first:
+      213: 7498199332816290045
+    second: T_Key_Light_Sprite_84
+  - first:
+      213: -4002692118267003899
+    second: T_Key_Light_Sprite_85
+  - first:
+      213: 6492544197049846760
+    second: T_Key_Light_Sprite_86
+  - first:
+      213: -5554756059454391627
+    second: T_Key_Light_Sprite_87
+  - first:
+      213: -5264385764268386020
+    second: T_Key_Light_Sprite_88
+  - first:
+      213: 5345236704801853498
+    second: T_Key_Light_Sprite_89
+  - first:
+      213: -1681425416957258026
+    second: T_Key_Light_Sprite_90
+  - first:
+      213: 8131338855993585038
+    second: T_Key_Light_Sprite_91
+  - first:
+      213: -81452367172605281
+    second: T_Key_Light_Sprite_92
+  - first:
+      213: 1963450098355066213
+    second: T_Key_Light_Sprite_93
+  - first:
+      213: -5976261896977585906
+    second: T_Key_Light_Sprite_94
+  - first:
+      213: -8779980618933068713
+    second: T_Key_Light_Sprite_95
+  - first:
+      213: 7933258948663978137
+    second: T_Key_Light_Sprite_96
+  - first:
+      213: 2108328960425595178
+    second: T_Key_Light_Sprite_97
+  - first:
+      213: -8012747771024416776
+    second: T_Key_Light_Sprite_98
+  - first:
+      213: 7220162284115112733
+    second: T_Key_Light_Sprite_99
+  - first:
+      213: 7932420958270280662
+    second: T_Key_Light_Sprite_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81718c3f82aa270800000000000000
+      internalID: 8262461493863717056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 216
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59aa411818da7320800000000000000
+      internalID: 2556593336367098204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213eef05e4a03b90800000000000000
+      internalID: -7264124895226875609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 216
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0a809e431e9890800000000000000
+      internalID: -7449495505470879118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d28c08297ef5b0800000000000000
+      internalID: -5332691695844534798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2efc35a0904580800000000000000
+      internalID: -8844910628788360488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 216
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf016e709760190800000000000000
+      internalID: -7996571013518132166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634edfa0f46b04a0800000000000000
+      internalID: -6626091441840045216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c902f58b7623170800000000000000
+      internalID: 8156695916689005674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 216
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff320e233c46f0630800000000000000
+      internalID: 3895442992233718783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c85b75c72f63e0800000000000000
+      internalID: -2058382775553571803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 216
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f481ec19743e6c0800000000000000
+      internalID: -4115366942932971760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33d94212f7e07390800000000000000
+      internalID: -7822497525867621572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b4ae0aaffb1a630800000000000000
+      internalID: 3936638632460962684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 216
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32a177fd78a0e30800000000000000
+      internalID: 4470534973964297156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 216
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe12324cde43b40800000000000000
+      internalID: 5419217678292348706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e1e53814b02190800000000000000
+      internalID: -7989187722879048593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f5342659f45690800000000000000
+      internalID: -7614186921606646522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6333190a9e4d2d0800000000000000
+      internalID: -3254719754841934112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6962830e012cf1900800000000000000
+      internalID: 657457448356423318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f16a2b5f5a580910800000000000000
+      internalID: 1803791016359780857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc78f2aacc84e70800000000000000
+      internalID: 9099748078416022790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 173
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4950a50ca4939ff50800000000000000
+      internalID: 6915621696021595540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b435336bc2788a0800000000000000
+      internalID: -6303019992424953074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fedb3992b962a60800000000000000
+      internalID: 7648971620010028864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21422a5e21722e7f0800000000000000
+      internalID: -584862039489240046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be7f7518b67f9d0800000000000000
+      internalID: -2740603644960838912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 173
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db81722d4121cc0800000000000000
+      internalID: -3741905447559840406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6379506f521e060800000000000000
+      internalID: 6980902635986958007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e53a7787208a75c0800000000000000
+      internalID: -4216917193814034968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 173
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fa6734e12200c0800000000000000
+      internalID: -4611085804407949226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0401902e346ab40800000000000000
+      internalID: 5451119037072294123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1a4c034cbf6ff0800000000000000
+      internalID: -40606875468031034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ea38daf09a8930800000000000000
+      internalID: 4146285813991925445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c102f0c4ad36c530800000000000000
+      internalID: 3874852307219907010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3863c411fbb21840800000000000000
+      internalID: 5193419964421466172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2563826778ae946c0800000000000000
+      internalID: -4158534913376111022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4fb3de9b54f72b0800000000000000
+      internalID: -5584668348064729926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a042409367f7770800000000000000
+      internalID: 8610730999810361937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fab3228a3f5da640800000000000000
+      internalID: 5092831458522020601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71746e83edb65930800000000000000
+      internalID: 4131698493203181949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2419c5f29d28b40800000000000000
+      internalID: 5441150097256694473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e649f58e8edc9b4d0800000000000000
+      internalID: -3118234866762673042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 130
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1a9f22f4876680800000000000000
+      internalID: -8761888374310429326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e1118040a230d80800000000000000
+      internalID: -8285732692628005374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e4ea7bad897c0a0800000000000000
+      internalID: -6861347442123715037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 130
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08b1df5632bbbf50800000000000000
+      internalID: 6898303200853604366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 130
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24e4ec4f9b572ba0800000000000000
+      internalID: -6113817229384162257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c09b28e554cf1c20800000000000000
+      internalID: 3179475735193292992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcbc5cd2e4c22e70800000000000000
+      internalID: 9089043476625800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2183a8c02c1ed3ea0800000000000000
+      internalID: -5891304513980450798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1085b244728d1f0800000000000000
+      internalID: -1020022141860970027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a1ff7c0bfcf110800000000000000
+      internalID: 1296186823880583365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec2c49da71d9e30800000000000000
+      internalID: 4511788435987680776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 86
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e3266dd05b1f40800000000000000
+      internalID: 5700238665199116545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba8d8fa2053be180800000000000000
+      internalID: -9085109537638348100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e6ef26f7729a20800000000000000
+      internalID: 3067646195442050809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aadae1dc974ec000800000000000000
+      internalID: 58062584064694949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 90
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e7f2e4f64339a0800000000000000
+      internalID: -6254577439893626126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 87
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab0c1fc31868d2a0800000000000000
+      internalID: -6712500810307335250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 87
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de9044209e9a7e0800000000000000
+      internalID: -1753614383943389904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 85
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5d34ed17009850800000000000000
+      internalID: 6381608496948664876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 85
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e79d88840e138f0800000000000000
+      internalID: -562421876306379192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 85
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1a171ce2e3d7c60800000000000000
+      internalID: 7817472898719916510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795039df41aff2a0800000000000000
+      internalID: -6701460356185695877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c485aab1a7c7d0800000000000000
+      internalID: -2898170012176695018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1526afc24e2ef0800000000000000
+      internalID: -131093879534052369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3c5d7486a1c220800000000000000
+      internalID: 2504465955763797968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc0a309143366bf0800000000000000
+      internalID: -331521165879538466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa4cb7f28097080800000000000000
+      internalID: -9189304564639814999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 42
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63666358788fea10800000000000000
+      internalID: 1940920014796645228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1995ec85a2ff00f50800000000000000
+      internalID: 6845751990946781585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8105c8dac62fc3a0800000000000000
+      internalID: -6643048272686153331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 42
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eadcdc1712244230800000000000000
+      internalID: 3622057482976549605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e25334b64e038e0800000000000000
+      internalID: -1715620308687966700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 42
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d5efe83c0e8a80800000000000000
+      internalID: -8462813211100064146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 44
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa4d95473ef59ee0800000000000000
+      internalID: -1254817407808222476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 42
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9bb3e66d4d87b0800000000000000
+      internalID: -5220431288749810794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 42
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d36db27a7a66fb0800000000000000
+      internalID: -4654848828403991288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 42
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9d58ecb48089860800000000000000
+      internalID: 7536783098084973006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 42
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e2df0f6605cfd00800000000000000
+      internalID: 1007768819684158979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 48
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcdccf9bc288880800000000000000
+      internalID: -8608581510396785361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 47
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff20ff762683c20800000000000000
+      internalID: 3186404935164165987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e44cacbeb9cc2e0800000000000000
+      internalID: -2104135488867381716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 47
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00697e094fe0860800000000000000
+      internalID: 7498199332816290045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7071c9b49378c0800000000000000
+      internalID: -4002692118267003899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0ea95c862a1a50800000000000000
+      internalID: 6492544197049846760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab5465bca89e2b0800000000000000
+      internalID: -5554756059454391627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d8201a0521f6b0800000000000000
+      internalID: -5264385764268386020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30181676781e2a40800000000000000
+      internalID: 5345236704801853498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d613f9ed706aa8e0800000000000000
+      internalID: -1681425416957258026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d24db9b9158d070800000000000000
+      internalID: 8131338855993585038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aef8ce08f9edef0800000000000000
+      internalID: -81452367172605281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565d8ae26739f3b10800000000000000
+      internalID: 1963450098355066213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e2f1e77d001da0800000000000000
+      internalID: -5976261896977585906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1ea9352e372680800000000000000
+      internalID: -8779980618933068713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982e4a4bf8981e60800000000000000
+      internalID: 7933258948663978137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2116d3e40a424d10800000000000000
+      internalID: 2108328960425595178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff59490b500dc090800000000000000
+      internalID: -8012747771024416776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 3
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ba55e75b233460800000000000000
+      internalID: 7220162284115112733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Key_Light_Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3509275de951e60800000000000000
+      internalID: 7932420958270280662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

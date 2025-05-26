@@ -1,0 +1,1817 @@
+fileFormatVersion: 2
+guid: e009bb6d42ee3b64ca0b64f2de6200f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2163705347904493571
+    second: T_Steam_Default_Sprite_0
+  - first:
+      213: 1030651755258233261
+    second: T_Steam_Default_Sprite_1
+  - first:
+      213: 861633847585783046
+    second: T_Steam_Default_Sprite_2
+  - first:
+      213: -3657097427727621991
+    second: T_Steam_Default_Sprite_3
+  - first:
+      213: -3627663008857222110
+    second: T_Steam_Default_Sprite_4
+  - first:
+      213: 147114170783004436
+    second: T_Steam_Default_Sprite_5
+  - first:
+      213: 4243427267109085038
+    second: T_Steam_Default_Sprite_6
+  - first:
+      213: -4874131663407646719
+    second: T_Steam_Default_Sprite_7
+  - first:
+      213: -7787030205939094239
+    second: T_Steam_Default_Sprite_8
+  - first:
+      213: -1204675489037341790
+    second: T_Steam_Default_Sprite_9
+  - first:
+      213: -3606234855458975331
+    second: T_Steam_Default_Sprite_10
+  - first:
+      213: 3648120163548981428
+    second: T_Steam_Default_Sprite_11
+  - first:
+      213: -3309803644659666430
+    second: T_Steam_Default_Sprite_12
+  - first:
+      213: -2100173831323500795
+    second: T_Steam_Default_Sprite_13
+  - first:
+      213: -9021288166605575830
+    second: T_Steam_Default_Sprite_14
+  - first:
+      213: 2437519813721757778
+    second: T_Steam_Default_Sprite_15
+  - first:
+      213: 271673485902983395
+    second: T_Steam_Default_Sprite_16
+  - first:
+      213: 9193255292145142254
+    second: T_Steam_Default_Sprite_17
+  - first:
+      213: -1833516596446842063
+    second: T_Steam_Default_Sprite_18
+  - first:
+      213: -4111239365784881307
+    second: T_Steam_Default_Sprite_19
+  - first:
+      213: 2860604486731615833
+    second: T_Steam_Default_Sprite_20
+  - first:
+      213: 2741747477797566104
+    second: T_Steam_Default_Sprite_21
+  - first:
+      213: 7710619399640926632
+    second: T_Steam_Default_Sprite_22
+  - first:
+      213: 6226453721538163165
+    second: T_Steam_Default_Sprite_23
+  - first:
+      213: 7199840833263590225
+    second: T_Steam_Default_Sprite_24
+  - first:
+      213: 7041250369962373511
+    second: T_Steam_Default_Sprite_25
+  - first:
+      213: -4347672308326427865
+    second: T_Steam_Default_Sprite_26
+  - first:
+      213: 5897912132924114429
+    second: T_Steam_Default_Sprite_27
+  - first:
+      213: 8599200437024902328
+    second: T_Steam_Default_Sprite_28
+  - first:
+      213: 4632151333996545380
+    second: T_Steam_Default_Sprite_29
+  - first:
+      213: -25470458602476162
+    second: T_Steam_Default_Sprite_30
+  - first:
+      213: -4313847134986950268
+    second: T_Steam_Default_Sprite_31
+  - first:
+      213: -3146107204902656500
+    second: T_Steam_Default_Sprite_32
+  - first:
+      213: -2685197596518493374
+    second: T_Steam_Default_Sprite_33
+  - first:
+      213: 7885369764757871881
+    second: T_Steam_Default_Sprite_34
+  - first:
+      213: 224722425645734530
+    second: T_Steam_Default_Sprite_35
+  - first:
+      213: 6354460236252581288
+    second: T_Steam_Default_Sprite_36
+  - first:
+      213: 6770311255277703521
+    second: T_Steam_Default_Sprite_37
+  - first:
+      213: 4763979856591772644
+    second: T_Steam_Default_Sprite_38
+  - first:
+      213: 999065383087086013
+    second: T_Steam_Default_Sprite_39
+  - first:
+      213: -4830156664022925133
+    second: T_Steam_Default_Sprite_40
+  - first:
+      213: 155677822691667336
+    second: T_Steam_Default_Sprite_41
+  - first:
+      213: 7897269074558766348
+    second: T_Steam_Default_Sprite_42
+  - first:
+      213: -6955233283620759544
+    second: T_Steam_Default_Sprite_43
+  - first:
+      213: -4770878982426480690
+    second: T_Steam_Default_Sprite_44
+  - first:
+      213: 3233960265818942507
+    second: T_Steam_Default_Sprite_45
+  - first:
+      213: -1541333477154528613
+    second: T_Steam_Default_Sprite_46
+  - first:
+      213: 4760102580609600210
+    second: T_Steam_Default_Sprite_47
+  - first:
+      213: 8344485711986368064
+    second: T_Steam_Default_Sprite_48
+  - first:
+      213: -2200732940127207154
+    second: T_Steam_Default_Sprite_49
+  - first:
+      213: 4377870603009874625
+    second: T_Steam_Default_Sprite_50
+  - first:
+      213: 6021069196413374479
+    second: T_Steam_Default_Sprite_51
+  - first:
+      213: 8064729671435520079
+    second: T_Steam_Default_Sprite_52
+  - first:
+      213: -1010945677491948905
+    second: T_Steam_Default_Sprite_53
+  - first:
+      213: 7933710167156612263
+    second: T_Steam_Default_Sprite_54
+  - first:
+      213: 856627580027497814
+    second: T_Steam_Default_Sprite_55
+  - first:
+      213: -7995518790680223258
+    second: T_Steam_Default_Sprite_56
+  - first:
+      213: -6320706533520988974
+    second: T_Steam_Default_Sprite_57
+  - first:
+      213: 2169744736506392697
+    second: T_Steam_Default_Sprite_58
+  - first:
+      213: 727348881627669611
+    second: T_Steam_Default_Sprite_59
+  - first:
+      213: -9170968543703315411
+    second: T_Steam_Default_Sprite_60
+  - first:
+      213: 8673347207435960064
+    second: T_Steam_Default_Sprite_61
+  - first:
+      213: 3491799848242081055
+    second: T_Steam_Default_Sprite_62
+  - first:
+      213: 8056042604467769070
+    second: T_Steam_Default_Sprite_63
+  - first:
+      213: -6880343642843545261
+    second: T_Steam_Default_Sprite_64
+  - first:
+      213: -1831305057272495477
+    second: T_Steam_Default_Sprite_65
+  - first:
+      213: -4531993399110422383
+    second: T_Steam_Default_Sprite_66
+  - first:
+      213: 4428243932560220589
+    second: T_Steam_Default_Sprite_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72a8b2379f8f1e0800000000000000
+      internalID: -2163705347904493571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1cc4f8f4c9d4e00800000000000000
+      internalID: 1030651755258233261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dbdc35b6325fb00800000000000000
+      internalID: 861633847585783046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 530
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990ec4ff3416f3dc0800000000000000
+      internalID: -3657097427727621991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2249d30b6b3f7adc0800000000000000
+      internalID: -3627663008857222110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41772f21f87aa0200800000000000000
+      internalID: 147114170783004436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f5e36ed9ea3ea30800000000000000
+      internalID: 4243427267109085038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087a1e831b9b5cb0800000000000000
+      internalID: -4874131663407646719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 433
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d63cff849eee390800000000000000
+      internalID: -7787030205939094239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 433
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2f4e7602284fe0800000000000000
+      internalID: -1204675489037341790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 433
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d915cbf618414fdc0800000000000000
+      internalID: -3606234855458975331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e64ec5f9b0a230800000000000000
+      internalID: 3648120163548981428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 385
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20274cb0f173112d0800000000000000
+      internalID: -3309803644659666430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f3461170faad2e0800000000000000
+      internalID: -2100173831323500795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 385
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692a059532fdc280800000000000000
+      internalID: -9021288166605575830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 385
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589cd52b5fc3d120800000000000000
+      internalID: 2437519813721757778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0b326989d25c300800000000000000
+      internalID: 271673485902983395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 349
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee98ac1faf0059f70800000000000000
+      internalID: 9193255292145142254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 341
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b003be5a0e86e0800000000000000
+      internalID: -1833516596446842063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 349
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673acf3491f1f6c0800000000000000
+      internalID: -4111239365784881307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 349
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ec682ef98e2b720800000000000000
+      internalID: 2860604486731615833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89672fdfdc4ac0620800000000000000
+      internalID: 2741747477797566104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 349
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a945d9cd7f910b60800000000000000
+      internalID: 7710619399640926632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 341
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f0baabaec86650800000000000000
+      internalID: 6226453721538163165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 334
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b570a6719fae360800000000000000
+      internalID: 7199840833263590225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781f134c7eb87b160800000000000000
+      internalID: 7041250369962373511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723966e0217f9a3c0800000000000000
+      internalID: -4347672308326427865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5886f16d799d150800000000000000
+      internalID: 5897912132924114429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 301
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc049ac3f765770800000000000000
+      internalID: 8599200437024902328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 293
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46547b89815b84040800000000000000
+      internalID: 4632151333996545380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 293
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dabbab0c285aff0800000000000000
+      internalID: -25470458602476162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 301
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48924cfe2e22224c0800000000000000
+      internalID: -4313847134986950268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ea7a7a28c654d0800000000000000
+      internalID: -3146107204902656500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 245
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24358c343034cbad0800000000000000
+      internalID: -2685197596518493374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 246
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9ff6c5067e6d60800000000000000
+      internalID: 7885369764757871881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a9da10bdf5e1300800000000000000
+      internalID: 224722425645734530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 246
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0e21eae39f2850800000000000000
+      internalID: 6354460236252581288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 246
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16118ad473af4fd50800000000000000
+      internalID: 6770311255277703521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebd44d507e0d1240800000000000000
+      internalID: 4763979856591772644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99b423ca46ddd00800000000000000
+      internalID: 999065383087086013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08d67fa16d7fcb0800000000000000
+      internalID: -4830156664022925133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d61f8a724192200800000000000000
+      internalID: 155677822691667336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc0ccb16cb89d60800000000000000
+      internalID: 7897269074558766348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 239
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8089fcfcd2c0a7f90800000000000000
+      internalID: -6955233283620759544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 239
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa71ab7de6acdb0800000000000000
+      internalID: -4770878982426480690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2caddd3ab551ec20800000000000000
+      internalID: 3233960265818942507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9269cd6e551c9ae0800000000000000
+      internalID: -1541333477154528613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 206
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac7a3b3184f0240800000000000000
+      internalID: 4760102580609600210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e15484b819dc370800000000000000
+      internalID: 8344485711986368064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 198
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01873a0d0d6571e0800000000000000
+      internalID: -2200732940127207154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 206
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca57055e1251cc30800000000000000
+      internalID: 4377870603009874625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00144c78822f8350800000000000000
+      internalID: 6021069196413374479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48877b48ecabef60800000000000000
+      internalID: 8064729671435520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79230e5334668f1f0800000000000000
+      internalID: -1010945677491948905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac5648cc533a1e60800000000000000
+      internalID: 7933710167156612263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6754de3a53eb00800000000000000
+      internalID: 856627580027497814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16b8e95063a0190800000000000000
+      internalID: -7995518790680223258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4adf375e65848a0800000000000000
+      internalID: -6320706533520988974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970bcb0975b7c1e10800000000000000
+      internalID: 2169744736506392697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 105
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e13544ff081a00800000000000000
+      internalID: 727348881627669611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c484a03bc2ab080800000000000000
+      internalID: -9170968543703315411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fb8d0f45bed5870800000000000000
+      internalID: 8673347207435960064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6b3d267d557030800000000000000
+      internalID: 3491799848242081055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec6b6e010dccf60800000000000000
+      internalID: 8056042604467769070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35181b319eb1480a0800000000000000
+      internalID: -6880343642843545261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8285e9c0c5e596e0800000000000000
+      internalID: -1831305057272495477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190bb99d3002b11c0800000000000000
+      internalID: -4531993399110422383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_Default_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1e7031568447d30800000000000000
+      internalID: 4428243932560220589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

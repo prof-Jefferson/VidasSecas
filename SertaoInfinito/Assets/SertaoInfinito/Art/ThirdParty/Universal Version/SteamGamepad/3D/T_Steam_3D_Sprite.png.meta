@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: f704c82f7b1662e43a2ef43d09ac5a06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8247120513501900831
+    second: T_Steam_3D_Sprite_0
+  - first:
+      213: -2694264563303175448
+    second: T_Steam_3D_Sprite_1
+  - first:
+      213: -2001497349857028609
+    second: T_Steam_3D_Sprite_2
+  - first:
+      213: -1345565972298929662
+    second: T_Steam_3D_Sprite_3
+  - first:
+      213: 7039829907346998773
+    second: T_Steam_3D_Sprite_4
+  - first:
+      213: 452319475204148023
+    second: T_Steam_3D_Sprite_5
+  - first:
+      213: 4152647858238952028
+    second: T_Steam_3D_Sprite_6
+  - first:
+      213: 5779310186580753938
+    second: T_Steam_3D_Sprite_7
+  - first:
+      213: 9112793197641378220
+    second: T_Steam_3D_Sprite_8
+  - first:
+      213: 4574075315669138156
+    second: T_Steam_3D_Sprite_9
+  - first:
+      213: -3344119225024250750
+    second: T_Steam_3D_Sprite_10
+  - first:
+      213: 6337363117844557812
+    second: T_Steam_3D_Sprite_11
+  - first:
+      213: -1086540753411156055
+    second: T_Steam_3D_Sprite_12
+  - first:
+      213: 720785132322534225
+    second: T_Steam_3D_Sprite_13
+  - first:
+      213: -5101749682843879046
+    second: T_Steam_3D_Sprite_14
+  - first:
+      213: -8634064097267755272
+    second: T_Steam_3D_Sprite_15
+  - first:
+      213: 3959472095474197227
+    second: T_Steam_3D_Sprite_16
+  - first:
+      213: 7222410728645631605
+    second: T_Steam_3D_Sprite_17
+  - first:
+      213: 744941024884259291
+    second: T_Steam_3D_Sprite_18
+  - first:
+      213: 461090920015594197
+    second: T_Steam_3D_Sprite_19
+  - first:
+      213: 6700308563080899565
+    second: T_Steam_3D_Sprite_20
+  - first:
+      213: 5530338057158470520
+    second: T_Steam_3D_Sprite_21
+  - first:
+      213: -7031932064265558494
+    second: T_Steam_3D_Sprite_22
+  - first:
+      213: 2087184805284157617
+    second: T_Steam_3D_Sprite_23
+  - first:
+      213: -1965812903451875217
+    second: T_Steam_3D_Sprite_24
+  - first:
+      213: -6146674870962107508
+    second: T_Steam_3D_Sprite_25
+  - first:
+      213: -7931238932318915076
+    second: T_Steam_3D_Sprite_26
+  - first:
+      213: 4606983073805065977
+    second: T_Steam_3D_Sprite_27
+  - first:
+      213: -993329335501397549
+    second: T_Steam_3D_Sprite_28
+  - first:
+      213: -4601821102543683048
+    second: T_Steam_3D_Sprite_29
+  - first:
+      213: -2744424203548253347
+    second: T_Steam_3D_Sprite_30
+  - first:
+      213: -5602782803753236719
+    second: T_Steam_3D_Sprite_31
+  - first:
+      213: -6998451082938707544
+    second: T_Steam_3D_Sprite_32
+  - first:
+      213: -2033024454025890353
+    second: T_Steam_3D_Sprite_33
+  - first:
+      213: 582707383224450990
+    second: T_Steam_3D_Sprite_34
+  - first:
+      213: 5568122732316505265
+    second: T_Steam_3D_Sprite_35
+  - first:
+      213: -4723049263898246680
+    second: T_Steam_3D_Sprite_36
+  - first:
+      213: 8150915721432406193
+    second: T_Steam_3D_Sprite_37
+  - first:
+      213: 8883733368320352507
+    second: T_Steam_3D_Sprite_38
+  - first:
+      213: 561889177103629602
+    second: T_Steam_3D_Sprite_39
+  - first:
+      213: -4487072551799854921
+    second: T_Steam_3D_Sprite_40
+  - first:
+      213: 6003928488186578988
+    second: T_Steam_3D_Sprite_41
+  - first:
+      213: 8144013609364900351
+    second: T_Steam_3D_Sprite_42
+  - first:
+      213: -7667784460919013329
+    second: T_Steam_3D_Sprite_43
+  - first:
+      213: -1034897683823642102
+    second: T_Steam_3D_Sprite_44
+  - first:
+      213: 3057304526483460652
+    second: T_Steam_3D_Sprite_45
+  - first:
+      213: 5508674233360308200
+    second: T_Steam_3D_Sprite_46
+  - first:
+      213: -8978116135748016556
+    second: T_Steam_3D_Sprite_47
+  - first:
+      213: 5722638203378714485
+    second: T_Steam_3D_Sprite_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 529
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103e137968a37270800000000000000
+      internalID: 8247120513501900831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 529
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea246d87ac0c9ad0800000000000000
+      internalID: -2694264563303175448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 529
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d2e2c3c04934e0800000000000000
+      internalID: -2001497349857028609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 529
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ae44790e6935de0800000000000000
+      internalID: -1345565972298929662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5c69a800082b160800000000000000
+      internalID: 7039829907346998773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 481
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bc88c8a26f64600800000000000000
+      internalID: 452319475204148023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 481
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529e93b93b21a930800000000000000
+      internalID: 4152647858238952028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 481
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e31fd9efb343050800000000000000
+      internalID: 5779310186580753938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a201b125277e70800000000000000
+      internalID: 9112793197641378220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea775ed3416a7f30800000000000000
+      internalID: 4574075315669138156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 432
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cffd1684d4791d0800000000000000
+      internalID: -3344119225024250750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff69cbcd26d2f750800000000000000
+      internalID: 6337363117844557812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a751f601f4dbe0f0800000000000000
+      internalID: -1086540753411156055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 386
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b77b424eb00a00800000000000000
+      internalID: 720785132322534225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 386
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f02591b1f239b0800000000000000
+      internalID: -5101749682843879046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d662e274ad2880800000000000000
+      internalID: -8634064097267755272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 338
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2afc484eed2f630800000000000000
+      internalID: 3959472095474197227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 334
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e94eeaa482b3460800000000000000
+      internalID: 7222410728645631605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 338
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd977de4aef865a00800000000000000
+      internalID: 744941024884259291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 334
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d200b0bfbf166600800000000000000
+      internalID: 461090920015594197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe1fb63274cfc50800000000000000
+      internalID: 6700308563080899565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 286
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b21c87925bfbc40800000000000000
+      internalID: 5530338057158470520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a5c85b0f896e90800000000000000
+      internalID: -7031932064265558494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 290
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b81e83a58b27fc10800000000000000
+      internalID: 2087184805284157617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682fd2649708b4e0800000000000000
+      internalID: -1965812903451875217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bcb7675cf92baa0800000000000000
+      internalID: -6146674870962107508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 242
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5f16a66349ee190800000000000000
+      internalID: -7931238932318915076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe536062ba4fef30800000000000000
+      internalID: 4606983073805065977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e6747b3cf632f0800000000000000
+      internalID: -993329335501397549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ccf6b61c0320c0800000000000000
+      internalID: -4601821102543683048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53a58a3ab8d9e9d0800000000000000
+      internalID: -2744424203548253347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 195
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1170f9c89baee32b0800000000000000
+      internalID: -5602782803753236719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a19d77c1d180ee90800000000000000
+      internalID: -6998451082938707544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5ba1ec70f39c3e0800000000000000
+      internalID: -2033024454025890353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf37191741361800800000000000000
+      internalID: 582707383224450990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b085bf12f54d40800000000000000
+      internalID: 5568122732316505265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1cca0e7bb547eb0800000000000000
+      internalID: -4723049263898246680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8102ac9aedd1170800000000000000
+      internalID: 8150915721432406193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 99
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0e4023e6c594b70800000000000000
+      internalID: 8883733368320352507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df564ca3b3cc700800000000000000
+      internalID: 561889177103629602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 107
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86094a947bab1c0800000000000000
+      internalID: -4487072551799854921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28853b562d325350800000000000000
+      internalID: 6003928488186578988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff944289a39550170800000000000000
+      internalID: 8144013609364900351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2089a098ae869590800000000000000
+      internalID: -7667784460919013329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a31d82a0e43a1f0800000000000000
+      internalID: -1034897683823642102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229d3fb44abd6a20800000000000000
+      internalID: 3057304526483460652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d9ce670eb27c40800000000000000
+      internalID: 5508674233360308200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456698051f2576380800000000000000
+      internalID: -8978116135748016556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Steam_3D_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c77a4025ea6f40800000000000000
+      internalID: 5722638203378714485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
